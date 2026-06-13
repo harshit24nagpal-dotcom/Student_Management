@@ -1,0 +1,29 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Executables
+*.exe
+*.out
+student_system
+student_system.exe
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Local logs
+*.log
+data/updates.log
